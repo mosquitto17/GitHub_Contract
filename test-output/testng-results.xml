@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-05T02:04:54 IST" name="Default suite" finished-at="2024-07-05T02:13:45 IST" duration-ms="531109">
+    <groups>
+    </groups>
+    <test started-at="2024-07-05T02:04:54 IST" name="Default test" finished-at="2024-07-05T02:13:45 IST" duration-ms="531109">
+      <class name="CompanyAdminPOM.AdminTestCase">
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:CompanyAdminPOM.AdminTestCase@7c729a55]" started-at="2024-07-05T02:04:54 IST" name="setBrowser" finished-at="2024-07-05T02:05:02 IST" duration-ms="7255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="Login()[pri:1, instance:CompanyAdminPOM.AdminTestCase@7c729a55]" started-at="2024-07-05T02:05:02 IST" name="Login" finished-at="2024-07-05T02:05:15 IST" duration-ms="12988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="contractadd()[pri:7, instance:CompanyAdminPOM.AdminTestCase@7c729a55]" started-at="2024-07-05T02:05:15 IST" name="contractadd" finished-at="2024-07-05T02:06:38 IST" duration-ms="83141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contractadd -->
+        <test-method signature="contractdetailstab()[pri:8, instance:CompanyAdminPOM.AdminTestCase@7c729a55]" started-at="2024-07-05T02:06:38 IST" name="contractdetailstab" finished-at="2024-07-05T02:08:12 IST" duration-ms="93708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contractdetailstab -->
+        <test-method signature="contractagreementpage()[pri:9, instance:CompanyAdminPOM.AdminTestCase@7c729a55]" started-at="2024-07-05T02:08:12 IST" name="contractagreementpage" finished-at="2024-07-05T02:09:44 IST" duration-ms="92799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contractagreementpage -->
+        <test-method signature="contractdocumenttab()[pri:9, instance:CompanyAdminPOM.AdminTestCase@7c729a55]" started-at="2024-07-05T02:09:44 IST" name="contractdocumenttab" finished-at="2024-07-05T02:10:48 IST" duration-ms="63394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contractdocumenttab -->
+        <test-method signature="contractmilestone()[pri:18, instance:CompanyAdminPOM.AdminTestCase@7c729a55]" started-at="2024-07-05T02:10:48 IST" name="contractmilestone" finished-at="2024-07-05T02:12:07 IST" duration-ms="78892" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contractmilestone -->
+        <test-method signature="contracttask()[pri:19, instance:CompanyAdminPOM.AdminTestCase@7c729a55]" started-at="2024-07-05T02:12:07 IST" name="contracttask" finished-at="2024-07-05T02:13:24 IST" duration-ms="77737" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contracttask -->
+        <test-method signature="contractauditlog()[pri:20, instance:CompanyAdminPOM.AdminTestCase@7c729a55]" started-at="2024-07-05T02:13:24 IST" name="contractauditlog" finished-at="2024-07-05T02:13:45 IST" duration-ms="21084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contractauditlog -->
+      </class> <!-- CompanyAdminPOM.AdminTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
